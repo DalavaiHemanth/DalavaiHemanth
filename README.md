@@ -1,21 +1,167 @@
-<h1 align="center">Hi 👋, I'm Hemanth Dalavai</h1>
-<h3 align="center">Exploring the World of Data with Code | SQL | Data Analysis | Database Engineering</h3>
-<img src="https://camo.githubusercontent.com/87af9a9fec730c94fc8b08eb21fa5ef6ab7831a67ba17bf8cc76696f6e4be1ef/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966" align="right" width: 300px; height: 200px;" >
+```md
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Dalavai Hemanth
 
-- 🌱 I’m currently learning **Data Science**
+<div align="center">
 
-- 📫 How to reach me **dalavaihemanth2027@gmail.com**
+### 🚀 AI Engineer • Full Stack Developer • Open Source Enthusiast
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/dalavai-hemanth-86638931b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dalavai-hemanth-86638931b" height="30" width="40" /></a>
-<a href="https://instagram.com/hemanth_dalavai_vk18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hemanth_dalavai_vk18" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/hemanth_dalavai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hemanth_dalavai" height="30" width="40" /></a>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Developer;Computer+Vision+%26+NLP+Projects;Realtime+Systems+Builder;Linux+%26+Automation+Enthusiast;Hackathon+Project+Developer" />
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dalavaihemanth&show_icons=true&locale=en&layout=compact" alt="dalavaihemanth" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dalavaihemanth&" alt="dalavaihemanth" /></p>
+# 💫 About Me
+
+🎓 Engineering Student passionate about building intelligent systems and real-world applications.
+
+💡 I love working on:
+- Artificial Intelligence
+- Machine Learning
+- Computer Vision
+- NLP Systems
+- Realtime Applications
+- Linux & Automation
+- Open Source Technologies
+
+⚡ Currently exploring:
+- LLM Applications
+- AI Agents
+- Hugging Face Ecosystem
+- Deployment & Cloud Systems
+- Full Stack AI Platforms
+
+---
+
+# 🚀 Featured Projects
+
+## ⚡ SQL Spark
+### Real-Time SQL Hackathon Platform
+
+A powerful competitive SQL challenge platform featuring:
+- 🧠 In-browser SQL execution using sql.js
+- 🛡️ Advanced anti-cheat system
+- 📊 Live leaderboards
+- 🔄 Supabase realtime sync
+- 👥 Team & roster management
+- 🤖 Auto query evaluation engine
+
+### 🛠️ Tech Stack
+React • Vite • TailwindCSS • Supabase • PostgreSQL • sql.js • Monaco Editor
+
+---
+
+## 🏋️ Multi-Modal Fitness Analyzer
+### AI-Powered Pose, Activity & Mood Analyzer
+
+An intelligent fitness tracking system integrating:
+- 🧍 Computer Vision pose detection
+- 🧠 NLP workout analysis
+- 📈 Fitness prediction analytics
+- 🔐 JWT Authentication
+- 📊 Interactive dashboards
+
+### 🛠️ Tech Stack
+FastAPI • MediaPipe • Scikit-Learn • spaCy • React • SQLite • Recharts
+
+---
+
+## 🌱 Green Pulse
+### Smart Energy Monitoring Platform
+
+A sustainability-focused application helping users:
+- ⚡ Track energy consumption
+- 🌦️ Receive weather-based alerts
+- 📈 Analyze power usage trends
+- 🎯 Set monthly energy goals
+- 📧 Get automated notifications
+
+### 🛠️ Tech Stack
+Flask • Celery • Redis • SQLite • Scikit-Learn • Chart.js
+
+---
+
+## 🧠 FairAssign
+### Intelligent Faculty Duty Allocation System
+
+A smart examination scheduling platform featuring:
+- 📅 Exam slot management
+- 🤖 Automatic invigilator allocation
+- ⚠️ Conflict resolution system
+- 📊 Exportable reports
+- 🌙 Dark mode support
+
+### 🛠️ Tech Stack
+React • TypeScript • TailwindCSS • shadcn/ui • Vite
+
+---
+
+# 🛠️ Tech Stack
+
+## 👨‍💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=mysql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash)
+
+---
+
+## 🤖 AI / Machine Learning
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-FF6F00?style=for-the-badge)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+
+---
+
+## 🌐 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+![Framer Motion](https://img.shields.io/badge/FramerMotion-black?style=for-the-badge&logo=framer)
+
+---
+
+## ⚙️ Backend & Databases
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite)
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=DalavaiHemanth&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=DalavaiHemanth&theme=tokyonight&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DalavaiHemanth&theme=tokyonight&hide_border=false&layout=compact)
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dalavai-hemanth-86638931b)
+
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/DalavaiHemanth)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Building AI-powered systems for real-world impact.
+
+</div>
+```
